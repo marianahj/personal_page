@@ -1,0 +1,78 @@
+# Files in the config/locales directory are used for internationalization
+# and are automatically loaded by Rails. If you want to use locales other
+# than English, add the necessary files in this directory.
+#
+# To use the locales, use `I18n.t`:
+#
+#     I18n.t 'hello'
+#
+# In views, this is aliased to just `t`:
+#
+#     <%= t('hello') %>
+#
+# To use a different locale, set it with `I18n.locale`:
+#
+#     I18n.locale = :es
+#
+# This would use the information in config/locales/es.yml.
+#
+# The following keys must be escaped otherwise they will not be retrieved by
+# the default I18n backend:
+#
+# true, false, on, off, yes, no
+#
+# Instead, surround them with single quotes.
+#
+# en:
+#   'true': 'foo'
+#
+# To learn more, please read the Rails Internationalization guide
+# available at http://guides.rubyonrails.org/i18n.html.
+
+en:
+  # About me
+  title_about_me: "About me"
+  first_p_about_me: "My name is Mariana Hernandez. I was born in Mexico City, lived most of my life in Colima, Mexico
+  and moved to San Francisco in 2011. When I'm not working, you can find me on mommy duty, experiencing
+  new food places, studying an online course or just enjoying time by myself."
+  second_p_about_me: "I specialize in software engineering for web applications. I work primarily with Ruby on Rails,
+  javascript frameworks, postgres and mysql databases and agile methodology. My day on day activities include working
+  together with product team to get requirements and give my technical point of view; participate in the design of new
+  applications, development, testing and create documentation. I am very interested in big data and Data Science
+  projects."
+  third_p_about_me: "I like to participate in user experience sessions, listen to the project manager talking about
+  the response of our work. I keep a balance between technology and business, trying to deliver fast while keeping a
+  quality standard of the technical part, and always thinking on the final user first."
+
+  # Experience
+  title_experience: "Experience"
+  first_p_experience: "I started working in 2003 when I was 19 years old. It was just an office work, but I am very
+  proud of the positive impact I did to the organization by creating an electronic resource for research projects
+  documentation. I think that job taught me to work, be responsible and the importance of team work."
+  second_p_experience: "After graduation in 2009, I worked for 2 years in Mexico:"
+  first_bullet_experience: "I worked at Elanco Animal Health as a technologies support engineer"
+  second_bullet_experience: "I also worked at Crowd Interactive, a consultant company, as a software engineer. While
+  I was there, I worked in two different web applications, both of the were e-commerce."
+  third_p_experience: "In 2012, I started working for ModCloth, an e-commerce retail company as a software engineer. I
+  have worked in different projects and teams during my time in there, some of this applications are in house built
+  e-commerce platform, social commerce, single sign on, business intelligence, notifications service, recommendations
+  service, etc."
+  fourth_p_experience: "Want to check my full resume? Download it here."
+  first_span_experience: "Languages I speak: Native Spanish and fluent English."
+  second_span_experience: "Areas of expertise: e-commerce, APIs design and development, web services, Ruby on Rails,
+  redis, sidekiq, solr, elasticsearch, SEO, Google Analytics, Tealium, TDD, pair programing."
+  third_span_experience: "Where I see myself in 5 years: I see myself working as a full stack engineer, engaged in
+  projects that excite me and working with smart and supporting people, from whom I can learn new things."
+
+  # Education
+  title_education: "Education"
+  first_p_education: "I graduated from the Instituto Tecnologico de Colima - Colima, Mexico, - in 2009 and obtained a Bachelor's Degree in Computer Science."
+  second_p_education: "A few cool things I did:"
+  first_bullet_education: "Participated as a teacher assistant on GID SF."
+  second_bullet_education: "Help organizing a women who code meetup and gave an algorithms workshop"
+  third_bullet_education: "Helped with the Spanish translation of the Rails Bridge study guides."
+
+  # Contact
+  title_contact: "Contact"
+  first_p_contact: "Send me an email to marianahj@gmail.com"
+  second_p_contact: "Or you can also find me here:"

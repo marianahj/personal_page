@@ -1,0 +1,25 @@
+ul.main-menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #daf4f4;
+  li {
+    display: inline-block;
+    float: right;
+    a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    a:hover:not(.active) {
+      background-color: #afeeee;
+    }
+    .active {
+      background-color: #8ceaea;
+    }
+  }
+
+}

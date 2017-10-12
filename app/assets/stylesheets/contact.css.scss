@@ -1,0 +1,12 @@
+.social-media {
+  list-style: none;
+  a { text-decoration: none; }
+  li {
+    display: inline-block;
+    float: left;
+  }
+  img {
+    width: 80px;
+    height: 80px;
+  }
+}

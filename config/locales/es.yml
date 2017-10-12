@@ -1,0 +1,50 @@
+es:
+  # Acerca de mí
+  title_about_me: "Acerca de mí"
+  first_p_about_me: "Mi nombre es Mariana Hernández. Nací en la Ciudad de México, viví la mayor parte de mi vida en
+  Colima, México, y me mudé a San Francisco, California en el 2011. Cuando no estoy trabajando,puedes encontrarme haciendo
+  tareas de mamá, conociendo lugares nuevos de comida, estudiando algún curso en línea o disfrutando de tiempo a solas."
+  second_p_about_me: "Me especializo en ingeniería de software para aplicaciones web. Trabajo principalmente con Ruby on
+  Rails, javascript frameworks, bases de datos postgres y mysql, y metodología Agile. Mis actividades de día a día
+  incluyen: trabajar junto con el equipo de producto para recopilar requerimientos y dar mi punto de vista técnico;
+  también participo en el diseño de nuevas aplicaciones, desarrollo, agregar pruebas y crear documentación. Me interesa
+  mucho los proyectos de big data y Data Science."
+  third_p_about_me: "Me gusta participar en sesiones de experiencia de usuario; escuchar a mi project manager hablar
+  sobre los resultados de nuestro trabajo. Procuro mantener un balance entre el negocio y la tecnología, tratando de
+  entregar resultados rápido, manteniendo un estandar de calidad de la parte técnica, y siempre pensando primero en el
+  usuario final."
+
+  # Experiencia
+  title_experience: "Experiencia"
+  first_p_experience: "Empecé a trabajar en el 2003 cuando tenía 19 años. Era un solo un trabajo de oficina, pero me
+  siento muy orgullosa del impacto positivo que tuve en la organización, al crear recursos electrónicos de los
+  resultados de proyectos de investigación. Creo que ese trabajo, me eneñó a trabajar, a ser responsable en un ambiente
+  de oficina y a reconocer la importancia del trabajo en equipo."
+  second_p_experience: "Después de graduarme en el 2009, trabajé por 2 años en México:"
+  first_bullet_experience: "Trabajé como ingeniero de soporte de tecnologías en Elanco Animal Health."
+  second_bullet_experience: "También trabajé como software engineer en una consultora llamada Crowd Interactive. En esta
+  empresa, participé en dos aplicaciones distintas de comercio electrónico."
+  third_p_experience: "En el año 2012, empecé a trabajar en ModCloth, una tienda en línea de ropa, como Software
+  Engineer. Durante mi tiempo en ModCloth, he trabajado en distintos equipos y sistemas, por ejemplo: la plataforma de
+  e-commerce hecha en casa, social commerce, single sign on, business inteligence, servicio de notificaciones, servicio
+  de recomendaciones, etc."
+  fourth_p_experience: "¿Te interesa checar mi currículum completo? Descárgalo aquí."
+  first_span_experience: "Idiomas que hablo: Español nativo e Inglés fluido."
+  second_span_experience: "Mis áreas de especialización son: e-commerce, diseño y desarrollo de APIs, web services, Ruby
+  on Rails, redis, sidekiq, solr, elasticsearch, SEO, Google Analytics, Tealium, TDD y pair programing."
+  third_span_experience: "Dónde me veo a mi misma en 5 años: Me veo trabajado com un Full Stack Engineer, comprometida
+  en proyectos que me emocionen y trabajando con gente inteligente, de la que pueda seguir aprendiendo cosas nuevas."
+
+  # Educacion
+  title_education: "Educación"
+  first_p_education: "Me gradué del Instituto Tecnológico de Colima en el 2009 de la carrera de Ingeniería en Sistemas
+  Computacionales."
+  second_p_education: "Algunas cosas interesantes que he hecho:"
+  first_bullet_education: "Participé como asistente de maestro en un curso de Girl Develop It San Francisco"
+  second_bullet_education: "Ayudé a organizar un meetup de Women Who Code, y di un taller de algoritmos."
+  third_bullet_education: "Ayudé con la traducción a Español de las guías de estudio del grupo Rails Bridge."
+
+  # Contacto
+  title_contact: "Contacto"
+  first_p_contact: "Envíame un email a marianahj@gmail.com"
+  second_p_contact: "O también puedes encontrarme aquí:"
